@@ -1,2 +1,3 @@
-*.log
+i*.log
 *.tmp
+passwords.txt
